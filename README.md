@@ -8,4 +8,5 @@ This is the detailed view of each task
 ![93407f74-366e-446f-8c26-180d72b6ccac](https://github.com/nitingramesh/Peddal-start-/assets/76782291/2272a9d9-5e96-4ba2-97d8-81697d66a0a8)
 
 ![8763832e-f7fc-4d07-b673-30448baced80](https://github.com/nitingramesh/Peddal-start-/assets/76782291/587e01c7-4937-461d-bb08-80d0ee8ca79e)
+This option helps us to edit the task 
 ![9e67f1d6-232e-4f50-afa9-93d0741b500b](https://github.com/nitingramesh/Peddal-start-/assets/76782291/4094fbf6-1b54-435f-98f6-a7474dd6fa75)
