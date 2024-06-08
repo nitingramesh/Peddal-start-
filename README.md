@@ -1,5 +1,8 @@
 # Peddal-start-
 
+https://main--luxury-figolla-5acc48.netlify.app/
+hosted in Netlify (Will not be functional since the server is switched off)
+
 This is how landing page will look like
 ![4df5f589-8a98-475e-9d01-b449be212c50](https://github.com/nitingramesh/Peddal-start-/assets/76782291/0d2b5dd7-b53d-431e-985b-a1498ad65094)
 Here we can add tasks 
